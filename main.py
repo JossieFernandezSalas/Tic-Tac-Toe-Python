@@ -1,6 +1,6 @@
 # Name: Jossie Esteban Fernández Salas
 # Email: jossie.fernandez.salas@gmail.com
-# Linkedin: linkedin.com/in/jossiefernande
+# Linkedin: linkedin.com/in/jossiefernandez
 
 import random
 
